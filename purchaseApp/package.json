@@ -1,8 +1,8 @@
 {
-  "name": "helloapp",
+  "name": "purchaseapp",
   "version": "1.0.0",
-  "description": "Test Angular 7 Project",
-  "author": "Ivan Mozheyko <metanit.com>",
+  "description": "The Angular 7 Project",
+  "author": "Ivan Mozheyko <mozhivan@yandex.ru>",
   "scripts": {
     "dev": "webpack-dev-server --hot --open",
     "build": "webpack"
